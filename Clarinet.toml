@@ -1,0 +1,11 @@
+[project]
+name = "dice-roll-contracts"
+authors = ["brventonbeshers-ship-it"]
+description = "Clarity smart contracts for Dice Roll dApp"
+telemetry = false
+requirements = []
+
+[contracts.dice-roll-v2]
+path = "contracts/dice-roll-v2.clar"
+clarity_version = 2
+epoch = 2.5
